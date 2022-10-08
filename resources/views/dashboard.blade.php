@@ -12,7 +12,7 @@
 @section('content')
     <section class="content-header">
       <h1>
-        Dashboard
+        DashBoard
         <small>Optional description</small>
       </h1>
       <ol class="breadcrumb">
