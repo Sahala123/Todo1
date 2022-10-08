@@ -10,7 +10,7 @@
 @section('content')
     <section class="content-header">
       <h1>
-        TODO LIST For a day
+        TODO LIST For A Day
         <small>Optional description</small>
       </h1>
       <ol class="breadcrumb">
